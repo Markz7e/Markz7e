@@ -11,4 +11,4 @@ If you want to contact me, below you will find my social media and channels:
 [![Gmail Icon that shows my username](https://user-images.githubusercontent.com/118499757/210700879-ae0d0ed2-cc8c-47b5-be7b-fbafb1c4bc95.png "Markz7e Gmail")](mailto:dev.mbarrera@gmail.com?subject=Hey%20there!&body=FYI)  
 
 In case you found my repositories useful and do you want me to invite me a coffee. You can do it using the below button:  
-<a href="https://www.buymeacoffee.com/dev.mbarrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Gee Thanks!" height="30" width="170"></a>
+<a href="https://www.buymeacoffee.com/dev.mbarrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Gee Thanks!" height="30"></a>
