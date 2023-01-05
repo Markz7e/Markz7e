@@ -10,6 +10,5 @@ If you want to contact me, below you will find my social media and channels:
 [![Twitter Icon that shows my username](https://user-images.githubusercontent.com/118499757/210700847-2d6981a0-646c-4eab-bd91-495c00af60a8.png "Markz7e on LinkedIn")](https://twitter.com/devmbarrera)
 [![Gmail Icon that shows my username](https://user-images.githubusercontent.com/118499757/210700879-ae0d0ed2-cc8c-47b5-be7b-fbafb1c4bc95.png "Markz7e Gmail")](mailto:dev.mbarrera@gmail.com?subject=Hey%20there!&body=FYI)  
 
-In case you found my repositories useful and do you want me to invite me a coffe($1.50USD). You can do it using the below button:  
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="marks7e" data-color="#FF5F5F" data-emoji=""  data-font="Inter" data-text="Gee, thanks!" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+In case you found my repositories useful and do you want me to invite me a coffe($2.00 USD). You can do it using the below button:  
+[![BuyMeACoffee Icon that links to my account](https://user-images.githubusercontent.com/118499757/210705202-31fc221a-2d0a-4c81-8010-076e8b4c4338.png "Gee thanks!")](https://www.buymeacoffee.com/marks7e)  
